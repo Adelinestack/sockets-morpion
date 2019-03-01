@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  }
+}
