@@ -1,0 +1,26 @@
+.game {
+  width: 100%;
+}
+
+.game-container {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  box-shadow: #fff;
+}
+
+.game-case {
+  flex: 0 1 30%;
+  height: 80px;
+  background: #fff;
+  border: 1px solid #000;
+  margin-bottom: 10px;
+  font-size: 40px;
+  color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

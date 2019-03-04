@@ -13,6 +13,14 @@
   color: white;
 }
 
+.blue {
+  background-color: #2525a2;
+}
+
+.red {
+  background-color: #af6a6a;
+}
+
 .App-link {
   color: #61dafb;
 }
